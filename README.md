@@ -97,3 +97,7 @@ Thanks for your interest in PulseTile
 
 The Ripple Foundation
 http://ripple.foundation/
+
+## Using technologies
+
+Angular 1.5, Redux
